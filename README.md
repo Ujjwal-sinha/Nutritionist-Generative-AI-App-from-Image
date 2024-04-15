@@ -4,3 +4,10 @@ End to End Nutritionist Generative AI Doctor Using Google Gemini Pro Vision Larg
 
 ![WhatsApp Image 2024-04-16 at 00 40 57_49050e07](https://github.com/Ujjwal-sinha/Nutritionist-Generative-AI-App-from-Image/assets/115147132/d06bd737-8732-4793-ad95-b9ec473c6a06)
 
+.envfile contain GOOGLE_API_KEY
+
+to run the program 
+use streamlit run program name.py
+
+
+..
